@@ -1,0 +1,14 @@
+<html>
+<head>
+	<!--stylesheet-->
+	<!--title-->
+</head>
+<body>
+
+	<!--stuff and things-->
+
+</body>
+<foot>
+	<!--credits-->
+</foot>
+</html>
