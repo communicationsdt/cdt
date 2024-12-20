@@ -7,8 +7,10 @@ body {
 nav {
 	max-width: 60px;
 	max-height: 60px;
+	display:flex;
+	flex-direction:row;
 }
-button {
+.button {
 	height: 20px;
 	width: 35px;
 	padding: 5px;
