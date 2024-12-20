@@ -1,12 +1,27 @@
 * {
-	/* border: 1px solid #000000; */
+	/*border: 1px solid #000000;*/
 }
-
+body {
+	background-color: #E0F2F6; 
+}
 nav {
-	
+	max-width: 60px;
+	max-height: 60px;
+}
+button {
+	height: 20px;
+	width: 35px;
+	padding: 5px;
+	margin: 5px;
 }
 
+section {
+	background-color: #73AB8A;
+}
 #1 {
 
+}
+#2 {
+	
 }
 
