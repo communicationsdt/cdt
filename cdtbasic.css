@@ -11,12 +11,15 @@ nav {
 	flex-direction:row;
 }
 .button {
-	height: 20px;
-	width: 35px;
-	padding: 5px;
-	margin: 5px;
-}
 
+}
+.logo {
+	height: 50px;
+	width: 50px;
+}
+a {
+	text-decoration: none;
+}
 section {
 	background-color: #73AB8A;
 }
