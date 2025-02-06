@@ -42,7 +42,20 @@ section {
 	padding: 10px;
 	border-radius: 5px;
 }
+#side {
+	float: right;
+	width: 200px;
+	height: 200px;
+}
 #foot {
 	margin-top: 25px;
+	justify: center;
+}
+img { 
+	object-fit: cover;
+	border-radius: 7px;
+}
+#pfp {
+	float: left;
 }
 
