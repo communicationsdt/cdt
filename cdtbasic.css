@@ -15,6 +15,13 @@ h1 {
 	justify: center;
 	font-family: amaranth;
 }
+img { 
+	object-fit: cover;
+	border-radius: 7px;
+	margin: 5px;
+	padding: 2px;
+	display: inline-block;
+}
 nav {
 	display:flex;
 	flex-direction:row;
@@ -71,6 +78,8 @@ section {
 #banner {
 	display: flex;
 	flex-direction: row;
+	justify-content: center;
+	flex-wrap: wrap-reverse;
 }
 .item {
 	width: 150px;
@@ -78,13 +87,7 @@ section {
 	margin-left: 10px;
 	margin-right: 10px;
 }
-img { 
-	object-fit: cover;
-	border-radius: 7px;
-	margin: 5px;
-	padding: 2px;
-	display: inline-block;
-}
+
 .art {
 	padding-bottom: 20px;
 	margin-bottom: 20px;
