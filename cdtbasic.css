@@ -5,12 +5,13 @@
 	box-sizing: border-box;
 }
 body {
-	background-color: #c2e5c0; 
+
+	background-color: #d1f1d1; 
 }
 header {
 	display:flex;
 	flex-direction:row;
-	background-color: #ffffff;
+	background-color: #d1f1d1;
 	justify-content: center;
 }
 h1 {
