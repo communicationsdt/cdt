@@ -73,10 +73,11 @@ section {
 	margin-right: 10px;
 }
 #foot {
-	margin: 30px;
+	margin: 10px;
 	display: flex;
 	justify-content: center;
 	max-width: 50%;
+	padding: 1px;
 }
 #foot p {
 	font-family: amaranth;
@@ -102,7 +103,7 @@ section {
 }
 #pfp {
 	float: left;
-	height: 75px;
+	height: 100px;
 }
 nav {
 	display: flex;
