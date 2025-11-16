@@ -73,10 +73,10 @@ section {
 	margin-right: 10px;
 }
 #foot {
-	margin: 25px;
+	margin: 30px;
 	display: flex;
 	justify-content: center;
-	max-width: 400px;
+	max-width: 50%;
 }
 #foot p {
 	font-family: amaranth;
@@ -115,5 +115,13 @@ nav a {
 	padding: 5px;
 }
 .identify {
-	
+
 }
+.foot {
+
+}
+footer {
+	display: flex;
+	justify-content: center;
+}
+	
