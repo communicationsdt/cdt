@@ -53,22 +53,22 @@ a {
 }
 section {
 	background-color: #329f75;
-	margin-left: 30px;
-	margin-right: 30px;
-	padding: 10px;
+	margin-left: 10px;
+	margin-right: 10px;
+	padding: 5px;
 	border-radius: 5px;
 }
 #mainright {
 	float: right;
-	width: 200px;
-	height: 300px;
+	max-width: 200px;
+	max-height: 300px;
 	border-radius: 15px;
 	margin-bottom: 15px;
 }
 #mainleft {
 	float: left;
-	width: 200px;
-	height: 200px;
+	max-width: 200px;
+	max-height: 200px;
 	border-radius: 15px;
 	margin-right: 10px;
 }
@@ -91,19 +91,19 @@ section {
 	flex-wrap: wrap-reverse;
 }
 .item {
-	width: 150px;
-	height: 150px;
-	margin-left: 10px;
-	margin-right: 10px;
+	max-width: 150px;
+	max-height: 150px;
+	margin-left: 5px;
+	margin-right: 5px;
 }
 
 .art {
-	padding-bottom: 20px;
-	margin-bottom: 20px;
+	padding-bottom: 10px;
+	margin-bottom: 10px;
 }
 #pfp {
 	float: left;
-	height: 100px;
+	max-height: 100px;
 }
 nav {
 	display: flex;
@@ -116,7 +116,8 @@ nav a {
 	padding: 5px;
 }
 .identify {
-
+	display: flex;
+	justify-content: center;
 }
 .foot {
 
