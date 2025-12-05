@@ -53,9 +53,9 @@ a {
 }
 section {
 	background-color: #329f75;
-	margin-left: 10px;
-	margin-right: 10px;
-	padding: 5px;
+	margin-left: 2px;
+	margin-right: 2px;
+	padding: 3px;
 	border-radius: 5px;
 }
 #mainright {
@@ -98,8 +98,8 @@ section {
 }
 
 .art {
-	padding-bottom: 10px;
-	margin-bottom: 10px;
+	padding-bottom: 5px;
+	margin-bottom: 5px;
 }
 #pfp {
 	float: left;
